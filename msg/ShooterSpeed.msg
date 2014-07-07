@@ -1,0 +1,2 @@
+int32 left_shooter_speed
+int32 right_shooter_speed

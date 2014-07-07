@@ -1,0 +1,6 @@
+int32 ACTION_OFF=0
+int32 ACTION_LOCK=1
+int32 ACTION_OPEN=2
+int32 ACTION_SHOOT=3
+
+int32 action
